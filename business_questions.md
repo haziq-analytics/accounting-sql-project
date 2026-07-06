@@ -9,6 +9,7 @@
 ##Intermediate
 
 4."For the board meeting, I need total revenue recognized per month for this year so far. Just the month and the total — I want to see the trend."
+
 5."One of our directors is asking how much each customer has been invoiced in total versus how much they've actually paid so far. Can you get me a comparison per customer?"
 6."I want to identify our top 3 customers by total invoiced amount, so we know who to prioritize for account management calls."
 7."Compliance flagged that we need to double check our books — can you verify whether every journal entry actually balances (debits equal credits)? Flag any that don't."
