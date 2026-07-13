@@ -5,9 +5,9 @@ Skills:
 - SQL
 - Joins
 - CTE
--
--
--
+- View
+- CASE Statements
+
 
 Tables:
 - Accounts
@@ -22,5 +22,4 @@ Tables:
 - Bills
 - Payments
 
-Note: The database scenario and business questions were brainstormed with the assistance of AI. The databaase implementation,
-      SQL solutions, debugging, and refinements were completed by me, with AI used as a learning and review tool when needed.
+Note: The database scenario and business questions were brainstormed with the assistance of AI(Claude AI). The databaase implementation, SQL solutions, debugging, and refinements were completed by me, with AI used as a learning and review tool when needed.
